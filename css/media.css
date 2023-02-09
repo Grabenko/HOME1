@@ -1,0 +1,1139 @@
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+        margin: 0 auto !important;
+    }
+    .first_screen {
+        height: 750px;
+    }
+    nav {
+        margin-top: 20px;
+    }
+    .first_screen a {
+        padding: 0 20px;
+    }
+    .first_screen .btn_1 {
+        padding: 11px 65px;
+    }
+    .blok_1 h1 {
+        width: 450px;
+        font-size: 50px;
+        padding-top: 180px;
+    }
+    .blok_1 p {
+        font-size: 18px;
+        padding: 20px 0;
+    }
+    .blok_1 a {
+        padding: 13px 40px;
+    }
+    .blok_2 img {
+        width: 510px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px !important;
+    }
+    .first_screen {
+        height: 650px;
+    }
+    nav {
+        margin-top: 18px;
+    }
+    .first_screen p {
+        font-size: 18px;
+    }
+    .first_screen .btn_1 {
+        font-size: 16px;
+    }
+    .first_screen ul {
+        font-size: 16px;
+    }
+    .first_screen p {
+        font-size: 18px;
+    }
+    .blok_1 {
+        width: 350px;
+    }
+    .blok_1 h1 {
+        width: 390px;
+        font-size: 45px;
+        padding-top: 120px;
+    }
+    .blok_1 p {
+        font-size: 16px;
+    }
+    .blok_1 a {
+        padding: 11px 35px;
+        font-size: 16px;
+    }
+    .blok_2 img {
+        width: 390px !important;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 540px !important;
+    }
+    .first_screen {
+        height: 350px;
+    }
+    nav {
+        margin-top: 14px;
+    }
+    .first_screen ul {
+        font-size: 12px;
+        padding-right: 60px;
+        
+    }
+    .first_screen p {
+        font-size: 14px;
+    }
+    .first_screen .btn_1 {
+        margin-top: -8px;
+        padding: 5px 50px;
+        font-size: 14px;
+    }
+    .blok {
+        margin-top: 15px;
+        width: 200px;
+    }
+    .blok_1 h1 {
+        width: 300px;
+        font-size: 27px;
+        padding-top: 50px;
+    }
+    .blok_1 p {
+        font-size: 12px;
+        width: 270px;
+    }
+    .blok_1 a {
+        padding: 9px 25px;
+        font-size: 14px;
+    }
+    .blok_2 img {
+        width: 240px !important;
+    }
+
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    nav {
+        margin-top: 10px;
+    }
+    .first_screen ul {
+        font-size: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .first_screen p {
+        font-size: 12px;
+    }
+    .first_screen .btn_1 {
+        margin-top: -8px;
+        padding: 5px 40px;
+        font-size: 12px;
+    }
+    .blok_1 h1 {
+        width: 250px;
+        font-size: 25px;
+        padding-top: 60px;
+    }
+    .blok_1 p {
+        font-size: 10px;
+        width: 230px;
+    }
+    .blok_1 a {
+        padding: 5px 15px;
+        font-size: 12px;
+    }
+    .blok_2 img {
+        width: 250px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    .second_screen {
+        height: 630px;
+    }
+    .second_screen_blok p {
+        padding-top: 90px;
+        font-size: 18px;
+        padding-left: 50px;
+        text-align: center;
+    }
+    .second_screen_blok h1 {
+        width: 550px;
+        text-align: center;
+        font-size: 36px;
+        padding-top: 15px;
+        padding-right: 50px;
+    }
+    .main {
+        width: 940px;        
+    }
+    .card1 {
+        width: 320px;
+        height: 210px;
+        margin-top: 70px;
+        padding-bottom: 30px;
+        
+    }
+    .card1 .text5 {
+        width: 290px;
+        font-size: 18px; 
+        margin-bottom: 13px;
+        padding-right: 50px;  
+    }
+    .card1 span {
+        width: 175px;
+        font-size: 16px;
+        padding-top: 13px;
+        padding-bottom: 40px;
+    }
+    .card2 {
+        right: 95px;
+        bottom: 160px;
+    }
+    .card2 img {
+        width: 100px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px;
+    }
+    .second_screen {
+        height: 550px;
+    }
+    .second_screen_blok p {
+        padding-top: 75px;
+        font-size: 16px;
+        padding-right: 50px;
+    }
+    .second_screen_blok h1 {
+        width: 500px;
+        font-size: 32px;
+        padding-top: 12px;
+        margin-left: 140px;
+    }
+    .main {
+        width: 720px; 
+    }
+    .card1 {
+        width: 210px;
+        height: 210px;
+        margin-top: 60px;
+        padding-bottom: 20px; 
+        margin-left: 0;     
+    }
+    .card1 .text5 {
+        width: 210px;
+        font-size: 16px; 
+        margin-bottom: 11px;
+ 
+    }
+    .card1 span {
+        width: 250px;
+        font-size: 14px;
+        padding-top: 11px;
+        padding-bottom: 30px;
+    }
+    .card2 {
+        right: 65px;
+        bottom: 170px;
+    }
+    .card2 img {
+        width: 80px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 540px;
+    }
+    .second_screen {
+        height: 420px;
+    }
+    .second_screen_blok p {
+        padding-top: 50px;
+        font-size: 14px;
+        
+    }
+    .second_screen_blok h1 {
+        width: 400px;
+        font-size: 28px;
+        padding-top: 10px;
+        margin-left: 80px;
+    }
+    .main {
+        width: 540px;
+    }
+    .card1 {
+        width: 140px;
+        height: 160px;
+        margin-top: 50px;
+        margin-right: 10px;
+        
+    }
+    .card1 .text5 {
+        width: 100px;
+        font-size: 14px; 
+        margin-bottom: 10px; 
+    }
+    .card1 span {
+        width: 50px;
+        font-size: 12px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .card2 {
+        right: 40px;
+        bottom: 125px;
+    }
+    .card2 img {
+        width: 60px;
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .second_screen {
+        height: 350px;
+    }
+    .second_screen_blok p {
+        padding-top: 35px;
+        font-size: 12px;
+    }
+    .second_screen_blok h1 {
+        width: 380px;
+        margin-left: 80px;
+        font-size: 25px;
+        padding-top: 8px;
+    }
+    .main {
+        width: 500px;
+    }
+    .card1 {
+        width: 110px;
+        height: 130px;
+        margin-top: 40px;
+        margin-right: 10px;
+        
+    }
+    .card1 .text5 {
+        width: 100px;
+        font-size: 12px; 
+        margin-bottom: 10px;
+        padding: 0 auto !important;
+        
+    }
+    .card1 span {
+        width: 40px;
+        font-size: 10px;
+        padding-top: 8px;
+        padding-bottom: 12px;
+    }
+    .card2 {
+        right: 35px;
+        bottom: 115px;
+    }
+    .card2 img {
+        width: 40px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    .theer_screen_blok {
+        margin-top: 50px;
+        margin-bottom: 70px;
+    }
+    .theer_screen_blok img {
+        width: 500px;
+    }
+    .theer_screen_blok_2 {
+        width: 450px;
+        padding-top: 100px;
+        
+    }
+    .theer_screen_blok_2 p {
+        font-size: 18px;
+    }
+    .theer_screen_blok_2 h2 {
+        font-size: 38px;
+        width: 400px;
+    }
+    .theer_screen_blok_2 span {  
+        font-size: 16px; 
+        width: 450px;
+    }
+    .theer_screen_blok_2 a {
+        font-size: 16px;
+        padding: 11px 33px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px;
+    }
+    .theer_screen_blok {
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+    .theer_screen_blok img {
+        width: 400px;
+        height: 400px;
+    }
+    .theer_screen_blok_2 {
+        width: 320px;
+        padding-top: 65px;
+    }
+    .theer_screen_blok_2 p {
+        font-size: 16px;
+    }
+    .theer_screen_blok_2 h2 {
+        font-size: 28px;
+        width: 310px;
+    }
+    .theer_screen_blok_2 span {
+        font-size: 14px;
+        
+    }
+    .theer_screen_blok_2 a {
+        font-size: 14px;
+        padding: 10px 30px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 520px;
+    }
+    .theer_screen_blok {
+        margin-top: 30px;
+        margin-bottom: 50px;
+        height: 350px;
+    }
+    .theer_screen_blok img {
+        width: 300px;
+        height: 300px;
+        padding-left: 40px;
+    }
+    .theer_screen_blok_2 {
+        width: 220px;
+        padding-top: 35px;
+        height: 250px;
+    }
+    .theer_screen_blok_2 p {
+        font-size: 12px;
+    }
+    .theer_screen_blok_2 h2 {
+        font-size: 20px;
+    }
+    .theer_screen_blok_2 span {
+        font-size: 8px;
+    }
+    .theer_screen_blok_2 a {
+        font-size: 10px;
+        padding: 8px 25px;
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+        height: 800px;
+    }
+    .theer_screen {
+        height: 100%;
+    }
+    .theer_screen_blok {
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .theer_screen_blok img {
+        width: 100%;
+        height: 500px;
+    }
+    .theer_screen_blok_2 {
+        width: 100%;
+        padding-top: 35px;
+        margin-left: 10px;
+    }
+    .theer_screen_blok_2 p {
+        font-size: 12px;
+    }
+    .theer_screen_blok_2 h2 {
+        font-size: 22px;
+    }
+    .theer_screen_blok_2 span {
+        font-size: 10px;
+    }
+    .theer_screen_blok_2 a {
+        font-size: 10px;
+        padding: 8px 20px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    .four_screen_blok {
+        height: 800px;
+    }
+    .four_screen p {
+        padding-top: 80px;
+        font-size: 18px;
+    }
+    .four_screen h2 {
+        width: 550px;
+        font-size: 35px;
+        margin-top: 18px;
+        margin-left: 210px;
+    }
+    .doctors {
+        margin-top: 60px;
+        width: 960px;
+    }
+    .doctor1 img {
+        width: 230px;
+    }
+    .doctorinfo {
+        width: 190px;
+        bottom: 60px;
+        left: 20px;
+        height: 140px;
+    }
+    .doctorinfo p {
+        padding-top: 10px;
+        padding-left: 15px;
+    }
+    .doctorinfo span {
+        padding-left: 15px;
+        padding-top: 8px;
+    }
+    .doctorinfo img {
+        width: 12px;
+        height: 12px;
+        margin-left: 17px;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px;
+    }
+    .four_screen {
+        height: 600px;
+    }
+    .four_screen p {
+        padding-top: 60px;
+        font-size: 16px;
+    }
+    .four_screen h2 {
+        width: 450px;
+        font-size: 30px;
+        margin-top: 16px;
+        margin-left: 130px;
+    }
+    .doctors {
+        margin-top: 40px;
+        width: 720px;
+    }
+    .doctor1 img {
+        width: 170px;
+    }
+    .doctorinfo {
+        width: 150px;
+        bottom: 60px;
+        left: 11px;
+        height: 140px;
+    }
+    .doctorinfo p {
+        padding-top: 8px;
+        padding-left: 15px;
+        font-size: 12px;
+        display: flex;
+    }
+    .doctorinfo span {
+        padding-left: 15px;
+        padding-top: 6px;
+        font-size: 12px;
+    }
+    .doctorinfo img {
+        width: 10px;
+        height: 10px;
+        margin-left: 17px;
+        margin-top: 8px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 530px !important;
+    }
+    .four_screen {
+        height: 420px;
+    }
+    .four_screen p {
+        padding-top: 40px;
+        font-size: 14px;
+    }
+    .four_screen h2 {
+        width: 400px;
+        font-size: 25px;
+        margin-left: 60px;
+        margin-top: 14px;
+    }
+    .doctors {
+        margin-top: 30px;
+        width: 530px;
+    }
+    .doctor1 img {
+        width: 130px;
+    }
+    .doctorinfo {
+        width: 100px;
+        bottom: 65px;
+        left: 18px;
+        height: 90px;
+    }
+    .doctorinfo br {
+        display: none;
+    }
+    .doctorinfo p {
+        padding-top: 6px;
+        padding-left: 10px;
+        font-size: 10px;
+        display: flex;
+    }
+    .doctorinfo span {
+        padding-left: 10px;
+        padding-top: 6px;
+        font-size: 10px;
+    }
+    .doctorinfo img {
+        width: 8px;
+        height: 8px;
+        margin-left: 10px;
+        margin-top: 8px;
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .four_screen {
+        height: 380px;
+    }
+    .four_screen p {
+        padding-top: 20px;
+        font-size: 12px;
+        padding-right: 20px;
+    }
+    .four_screen h2 {
+        width: 300px;
+        font-size: 20px;
+        margin-left: 120px;
+        margin-top: 12px;
+    }
+    .doctors {
+        margin-top: 20px;
+        width: 500px;
+    }
+    .doctor1 img {
+        width: 120px;
+    }
+    .doctorinfo {
+        width: 100px;
+        bottom: 50px;
+        left: 10px;
+        height: 110px;
+    }
+    .doctorinfo br {
+        display: none;
+    }
+    .doctorinfo p {
+        padding-top: 6px;
+        padding-left: 5px;
+        font-size: 11px;
+        display: flex;
+    }
+    .doctorinfo span {
+        padding-left: 5px;
+        padding-top: 6px;
+        font-size: 10px;
+    }
+    .doctorinfo img {
+        width: 8px;
+        height: 8px;
+        margin-left: 7px;
+        margin-top: 5px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    .five_screen {
+        height: 900px;
+    }
+    .five_screen_blok p {
+        padding-top: 80px;
+        font-size: 18px;
+    }
+    .five_screen_blok h2 {
+        width: 550px;
+        font-size: 35px;
+        margin-top: 18px;
+    }
+    .five_screen_blok1 {
+        width: 960px;
+    }
+    .five_screen_blok2 {
+        width: 470px;
+        margin-top: 45px;
+    }
+    .five_screen_blok2 img {
+        width: 470px;
+    }
+    .five_screen_blok2 p {
+        padding-top: 20px;
+        padding-left: 16px;
+    }
+    .five_screen_blok2 span {
+        margin-left: 16px;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .stars img {
+        width: 18px;
+    }
+    .stars {
+        padding-top: 15px;
+        margin-left: 180px;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px;
+    }
+    .five_screen {
+        height: 730px;
+    }
+    .five_screen_blok p {
+        padding-top: 60px;
+        font-size: 16px;
+    }
+    .five_screen_blok h2 {
+        width: 500px;
+        font-size: 32px;
+        margin-top: 16px;
+    }
+    .five_screen_blok1 {
+        width: 720px;
+    }
+    .five_screen_blok2 {
+        width: 350px;
+        margin-top: 35px;
+    }
+    .five_screen_blok2 img {
+        width: 350px;
+    }
+    .five_screen_blok2 p {
+        padding-top: 18px;
+        padding-left: 14px;
+    }
+    .five_screen_blok2 span {
+        margin-left: 14px;
+        font-size: 14px;
+        margin-top: 4px;
+    }
+    .stars img {
+        width: 16px;
+    }
+    .stars {
+        padding-top: 13px;
+        margin-left: 130px;
+        margin-bottom: 15px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 530px;
+    }
+    .five_screen {
+        height: 570px;
+    }
+    .five_screen_blok p {
+        padding-top: 40px;
+        font-size: 14px;
+    }
+    .five_screen_blok h2 {
+        width: 420px;
+        font-size: 28px;
+        margin-top: 14px;
+    }
+    .five_screen_blok1 {
+        width: 530px;
+    }
+    .five_screen_blok2 {
+        width: 260px;
+        margin-top: 30px;
+    }
+    .five_screen_blok2 img {
+        width: 260px;
+    }
+    .five_screen_blok2 p {
+        padding-top: 15px;
+        padding-left: 12px;
+    }
+    .five_screen_blok2 span {
+        margin-left: 12px;
+        font-size: 12px;
+        margin-top: 3px;
+    }
+    .five_screen br {
+        display: none;
+    }
+    .stars img {
+        width: 14px;
+    }
+    .stars {
+        padding-top: 11px;
+        margin-left: 90px;
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .five_screen {
+        height: 500px;
+    }
+    .five_screen_blok p {
+        padding-top: 20px;
+        font-size: 12px;
+    }
+    .five_screen_blok h2 {
+        width: 370px;
+        font-size: 25px;
+        margin-top: 12px;
+    }
+    .five_screen_blok1 {
+        width: 500px;
+    }
+    .five_screen_blok2 {
+        width: 240px;
+    }
+    .five_screen_blok2 img {
+        width: 240px;
+    }
+    .five_screen_blok2 p {
+        padding-top: 10px;
+    }
+    .five_screen_blok2 span {
+        font-size: 10px;
+        margin-top: 2px;
+    }
+    .five_screen br {
+        display: none;
+    }
+    .stars img {
+        width: 14px;
+    }
+    .stars {
+        padding-top: 8px;
+        margin-left: 90px;
+        margin-bottom: 5px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    .six_screen_blok {
+        height: 350px;
+    }
+    .six_screen_blok p {
+        width: 740px;
+        font-size: 36px;
+        padding-top: 65px;
+    }
+    .six_screen_blok1 {
+        padding-top: 55px;
+    }
+    .six_screen_blok1 span {
+        font-size: 16px;
+    }
+    .six_screen_blok1 a {
+        margin-left: 760px;
+        padding: 10px 55px;
+        font-size: 16px;
+        position: relative;
+        bottom: 30px;
+    }
+}
+@media screen and (max-width:992px) {
+    .container {
+        width: 720px;
+    }
+    .six_screen_blok {
+        height: 320px;
+    }
+    .six_screen_blok p {
+        width: 500px;
+        font-size: 30px;
+        padding-top: 55px;
+    }
+    .six_screen_blok1 {
+        padding-top: 45px;
+    }
+    .six_screen_blok1 span {
+        font-size: 14px;
+    }
+    .six_screen_blok1 a {
+        margin-left: 550px;
+        padding: 8px 45px;
+        font-size: 14px;
+        position: relative;
+        bottom: 1px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 530px;
+    }
+    .six_screen_blok {
+        height: 260px;
+    }
+    .six_screen_blok p {
+        width: 400px;
+        font-size: 26px;
+        padding-top: 45px;
+    }
+    .six_screen_blok1 {
+        padding-top: 35px;
+    }
+    .six_screen_blok1 span {
+        font-size: 12px;
+    }
+    .six_screen_blok1 a {
+        margin-left: 390px;
+        padding: 6px 35px;
+        font-size: 12px;
+        position: relative;
+        bottom: 25px;
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding : 0 15px ;
+    }
+    .six_screen {
+        height: 210px;
+    }
+    .six_screen_blok p {
+        width: 320px;
+        font-size: 20px;
+        padding-top: 35px;
+    }
+    .six_screen_blok1 {
+        padding-top: 25px;
+    }
+    .six_screen_blok1 a {
+        margin-left: 360px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .container {
+        width: 960px;
+    }
+    footer {
+        height: 330px;
+    }
+    .seven_screen_blok1 {
+        width: 400px;
+        padding-top: 80px;
+        margin-bottom: 90px;
+    }
+    .seven_screen_blok1 p {
+        font-size: 18px;
+    }
+    .seven_screen_blok1 .text {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .logo1 {
+        width: 200px;
+    }
+    .seven_screen_blok1 img {
+        width: 28px;
+        padding-top: 35px;   
+    }
+    .seven_screen_blok2 {
+        padding-top: 80px;
+        padding-left: 90px;
+        height: 180px;
+    }
+    .seven_screen_blok2 h3 {
+        font-size: 18px;
+        margin-bottom: 18px;
+    }
+    .seven_screen_blok2 ul {
+        font-size: 16px;
+    }
+    .seven_screen_blok2 li {
+        padding: 13px 0;
+    }
+    .seven_screen_blok3 {
+        padding-top: 80px;
+        padding-left: 100px;
+    }
+    .seven_screen_blok3 p {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    input  {
+        width: 300px;
+        font-size: 18px;
+        padding: 10px 15px 10px 20px;   
+    }
+    ::placeholder {
+        width: 150px;
+    }
+    .Btn_4 {
+        font-size: 16px;
+        padding: 14px 50px; 
+        top: 40px; 
+    }
+}
+@media screen and (max-width:768px) {
+    .container {
+        width: 530px;
+    }
+    footer {
+        height: 300px;
+    }
+    .seven_screen_blok1 {
+        width: 270px;
+        padding-top: 60px;
+        margin-bottom: 70px;
+    }
+    .seven_screen_blok1 p {
+        font-size: 16px;
+    }
+    .seven_screen_blok1 .text {
+        font-size: 14px;
+        margin-top: 18px;
+    }
+    .logo1 {
+        width: 250px;
+    }
+    .seven_screen_blok1 img {
+        width: 25px;
+        padding-top: 25px;   
+    }
+    .seven_screen_blok2 {
+        padding-top: 60px;
+        padding-left: 10px;
+    }
+    .seven_screen_blok2 h3 {
+        font-size: 12px;
+        margin-bottom: 16px;
+    }
+    .seven_screen_blok2 ul {
+        font-size: 10px;
+    }
+    .seven_screen_blok2 li {
+        padding: 19px 0;
+    }
+    .seven_screen_blok3 {
+        padding-top: 60px;
+        padding-left: 20px;
+    }
+    .seven_screen_blok3 p {
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+    input  {
+        width: 190px;
+        font-size: 10px;  
+    }
+    .Btn_4 {
+        font-size: 10px;
+        padding: 10px 30px; 
+        top: 55px; 
+    }
+}
+@media screen and (max-width:576px) {
+    .container {
+        width: 100%;
+        padding : 0 15px ;
+    }
+    footer {
+        height: 220px;
+    }
+    .seven_screen_blok1 {
+        width: 250px;
+        padding-top: 40px;
+        margin-bottom: 50px;
+    }
+    .seven_screen_blok1 p {
+        font-size: 14px;
+    }
+    .seven_screen_blok1 .text {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    .logo1 {
+        width: 150px;
+    }
+    .seven_screen_blok1 img {
+        width: 20px;
+        padding-top: 10px;   
+    }
+    .seven_screen_blok2 {
+        padding-top: 40px;
+        padding-left: 5px;
+    }
+    .seven_screen_blok2 h3 {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .seven_screen_blok2 ul {
+        font-size: 10px;
+    }
+    .seven_screen_blok2 li {
+        padding: 13px 0;
+    }
+    .seven_screen_blok3 {
+        padding-top: 40px;
+        padding-left: 10px;
+    }
+    .seven_screen_blok3 p {
+        font-size: 10px;
+        margin-bottom: 30px;
+    }
+    .Btn_4 {
+        font-size: 8px;
+        padding: 8px 25px; 
+        top: 20px; 
+    }
+}
+
+
+
